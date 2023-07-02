@@ -1,6 +1,6 @@
 # Week 1
 
-## PYTHON Basics
+## Python Basics
 
 We'll be using the Python programming language throughout this course. Refer to the following links to brush up on the concepts.
 1) https://www.youtube.com/watch?v=kqtD5dpn9C8 (Quick video tutorial)
