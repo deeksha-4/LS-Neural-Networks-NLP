@@ -24,7 +24,7 @@ Once you're confident with the theory, attempt the NumPy assignment by completin
 _Note: This is an optional assignment_
 
 ## Neural Networks
-#### **Strongly Reccomended** 
+### **Strongly Reccomended** 
 Finish [this course](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) and complete the video tutorials by the end of this week.
 
 You do not need to enrol for the course, you can audit all the content for free.
