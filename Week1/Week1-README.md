@@ -11,7 +11,7 @@ The NumPy library of Python is an important tool we will use in building our neu
 1) https://www.w3schools.com/python/numpy/default.asp (Recommended)
 2) https://www.youtube.com/watch?v=QUT1VHiLmmI&pp=ygUObnVtcHkgdHV0b3JpYWw%3D (Video tutorial)
 
-Once you're confident with the theory, attempt the NumPy assignment by completing the tasks assigned in the Colab notebook (NumPy_Assignment.ipynb) in the Week1 folder. Save a copy of the notebook to your Google Drive to make changes to it.
+Once you're confident with the theory, attempt the NumPy assignment by completing the tasks assigned in the Colab notebook (Week1/NumPy_Assignment.ipynb) in the Week1 folder. Save a copy of the notebook to your Google Drive to make changes to it.
 
 NEURAL NETWORKS:
 
