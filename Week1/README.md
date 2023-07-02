@@ -29,7 +29,7 @@ Finish [this course "Neural Networks and Deep Learning"](https://www.coursera.or
 
 You do not need to enrol for the course, you can audit all the content for free.
 
-<img src="../misc/coursera_audit.png" size=256> _Upon pressing the Enroll for Free button, you will see this popup. Click on the "Audit" hyperlink near the bottom, underlined in red_</img>
+<img src="../misc/coursera_audit.png" size=128> _Upon pressing the Enroll for Free button, you will see this popup. Click on the "Audit" hyperlink near the bottom, underlined in red_</img>
 
 - You may also watch [this 4 video infographic series by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) to better understand a lot of the math behind neural networks
 
