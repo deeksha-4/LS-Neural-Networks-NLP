@@ -2,10 +2,9 @@
 
 ## Python Basics
 
-We'll be using the Python programming language throughout this course. Refer to the following links to brush up on the concepts.
-1) https://www.youtube.com/watch?v=kqtD5dpn9C8 (Quick video tutorial)
-2) https://www.youtube.com/watch?v=_uQrJ0TkZlc (Full video tutorial)
-3) https://www.w3schools.com/python/
+We'll be using the Python programming language throughout this course. You do not require an in-depth knowledge of the language, but an understanding of the syntax and structure of the language. Refer to the following links to brush up on the concepts.
+1. [Quick video tutorial](https://www.youtube.com/watch?v=kqtD5dpn9C8) or if you feel like it , you can watch the [complete tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+3. [W3 Schools](https://www.w3schools.com/python/)
 
 ## NumPy Basics
 
