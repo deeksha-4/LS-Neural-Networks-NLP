@@ -4,7 +4,7 @@ Before we embark on your journey to make your own GPT clone, we begin by underst
 
 In Week 1, you will understand the logic behind neural networks, and how we harness mathematics and computational power to solve many contemporary problems.
 
-Below you will find links to various online resources to help you with this week's portion. Please go through them. This week's assignment will be added to the repo later.
+Below you will find links to various online resources to help you with this week's portion. Please go through them. This week's assignment will be added to the repo later. An optional NumPy assignment is also available.
 
 ## Python Basics
 
