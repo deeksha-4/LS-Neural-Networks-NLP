@@ -25,7 +25,7 @@ _Note: This is an optional assignment_
 
 ## Neural Networks
 ### **Strongly Reccomended** 
-Finish [this course](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) and complete the video tutorials by the end of this week.
+Finish [this course "Neural Networks and Deep Learning"](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) by Andrew Ng on Coursera and complete the video tutorials by the end of this week.
 
 You do not need to enrol for the course, you can audit all the content for free.
 
