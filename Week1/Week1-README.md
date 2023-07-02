@@ -16,7 +16,7 @@ Once you're confident with the theory, attempt the NumPy assignment by completin
 
 ## Neural Networks
 
-1) https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning (Enroll yourselves in (can be audited) and complete this course)
+1) Enroll yourselves in [this course](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) and complete the video tutorials by the end of this week.
 
 ## PyTorch
 
