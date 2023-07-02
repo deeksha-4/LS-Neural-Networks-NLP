@@ -22,5 +22,5 @@ Once you're confident with the theory, attempt the NumPy assignment by completin
 
 PyTorch is another powerful library we'll be using to implement our neural networks. Again, you do not require an in-depth knowledge of this module, just a basic understanding of the syntax and the specific functions we'll be using.
 
-1) [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html) for the basic functions needed to build the classifier.
+1) [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html) for the basic functions you'll need to build the classifier.
 2) [Complete video tutorial](https://www.youtube.com/watch?v=c36lUUr864M&pp=ygUcbmV1cmFsIG5ldHdvcmsgd2l0aCBweXRvcmNoIA%3D%3D)
