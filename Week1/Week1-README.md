@@ -3,7 +3,7 @@
 ## Python Basics
 
 We'll be using the Python programming language throughout this course. You do not require an in-depth knowledge of the language, but an understanding of the syntax and structure of the language. Refer to the following links to brush up on the concepts.
-1. [Quick video tutorial](https://www.youtube.com/watch?v=kqtD5dpn9C8) or if you feel like it , you can watch the [complete tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+1. [Quick video tutorial](https://www.youtube.com/watch?v=kqtD5dpn9C8) or if you feel like it, you can watch the [complete tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 3. [W3 Schools](https://www.w3schools.com/python/)
 
 ## NumPy Basics
@@ -17,3 +17,10 @@ Once you're confident with the theory, attempt the NumPy assignment by completin
 ## Neural Networks
 
 1) https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning (Enroll yourselves in (can be audited) and complete this course)
+
+## PyTorch
+
+PyTorch is another powerful library we'll be using to implement our neural networks. Again, you do not require an in-depth knowledge of this module, just a basic understanding of the syntax and the specific functions we'll be using.
+
+1) [PyTorch tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html) for the basic functions needed to build the classifier.
+2) [Complete video tutorial](https://www.youtube.com/watch?v=c36lUUr864M&pp=ygUcbmV1cmFsIG5ldHdvcmsgd2l0aCBweXRvcmNoIA%3D%3D)
