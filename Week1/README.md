@@ -51,7 +51,7 @@ _Note: This is an optional assignment_
 
 ## Neural Networks
 
-### **Strongly Reccomended**
+### **Strongly Recomended**
 
 **Finish [this course "Neural Networks and Deep Learning"](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) by Andrew Ng on Coursera and complete the video tutorials by the end of this week.**
 
