@@ -56,3 +56,6 @@ PyTorch is another powerful library we'll be using to implement our neural netwo
 
 - [**PyTorch tutorial**](https://pytorch.org/tutorials/beginner/basics/intro.html) for the basic functions you'll need to build the classifier.
 - [**Complete video tutorial**](https://www.youtube.com/watch?v=c36lUUr864M&pp=ygUcbmV1cmFsIG5ldHdvcmsgd2l0aCBweXRvcmNoIA%3D%3D)
+
+## Assignment
+This week's assignment has not been released yet
