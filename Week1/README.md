@@ -35,7 +35,8 @@ One of the main advantages of Numpy is that vectorisation using numpy arrays mak
 - **[W3 Schools: NumPy Tutorial](https://www.w3schools.com/python/numpy/default.asp) (Recommended)**
 - [**FreeCodeCamp: Python NumPy Tutorial for Beginners**](https://www.youtube.com/watch?v=QUT1VHiLmmI&pp=ygUObnVtcHkgdHV0b3JpYWw%3D) (Video tutorial)
 
-Once you're confident with the theory, attempt the NumPy assignment by completing the tasks assigned in the Colab notebook [NumPy_Assignment.ipynb](https://github.com/deeksha-4/LS-Neural-Networks-NLP/blob/d01828745564914c97083791380ad87fea217176/Week1/NumPy_Assignment.ipynb) in the Week1 folder. Save a copy of the notebook to your Google Drive before you start making changes to it.  
+### Optional Assignment
+Once you're confident with the theory, attempt the NumPy assignment by completing the tasks assigned in the Colab notebook [**NumPy_Assignment.ipynb**](https://github.com/deeksha-4/LS-Neural-Networks-NLP/blob/d01828745564914c97083791380ad87fea217176/Week1/NumPy_Assignment.ipynb) in the Week1 folder. Save a copy of the notebook to your Google Drive before you start making changes to it.  
 _Note: This is an optional assignment_
 
 ## Neural Networks
