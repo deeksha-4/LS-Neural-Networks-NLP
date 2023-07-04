@@ -71,4 +71,10 @@ PyTorch is another powerful library we'll be using to implement our neural netwo
 
 ## Assignment
 
-This week's assignment has not been released yet
+This week's assignment has been released. Open [**NN_using_PyTorch_(Graded).ipynb**](<./NN_using_PyTorch_(Graded).ipynb>) in Colaboratory, and save a copy of the notebook to your own Drive.
+
+You will also have to download the `pizza_vs_not.zip` dataset, and upload it to your Drive after unzipping it.
+
+**Make sure that you save both the Colab Notebook and dataset folder to the same account**
+
+The method by which you will be submitting the assignments will be shared soon.
