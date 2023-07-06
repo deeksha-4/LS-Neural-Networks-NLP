@@ -1,3 +1,5 @@
+![TSS 2023 - Neural Networks and Large Language Models](/misc/banner.png)
+
 # LS-Neural-Networks-NLP
 
 This repository will contain all the resources and assignments of the Learners' Space 2023 Neural Networks &amp; Large Language Models course.
