@@ -26,7 +26,7 @@ Natural Language Processing is the AI technique by which computers are trained t
 Computers cannot process words directly; they deal only with numerical input and computation. In order to feed text as input to a neural network, we will first need to convert it into vector form, using word embeddings. Go through the following resources to familiarize yourselves with the same.
 
 - [**Brief conceptual overview**](https://www.geeksforgeeks.org/word-embeddings-in-nlp/)
-- [**Another conceptual site**](https://bejewled-bamboo-ce7.notion.site/Vector-Embedding-and-Databases-ef5abcb0d7ad4b1d9c83b15f46a56464?pvs=4), specifically for skip gram models.
+- [**Another conceptual site**](https://towardsdatascience.com/nlp-101-word2vec-skip-gram-and-cbow-93512ee24314), specifically for skip gram models.
 
 ### Text Preprocessing
 
