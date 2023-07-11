@@ -6,10 +6,10 @@ In Week 2, you will understand the basic concepts behind NLP and its application
 
 This page contains links to section-wise resources on this week's topics. Please go through all of them carefully. The graded assignment for this week will be uploaded shortly.
 
-- [Natural Language Processing (NLP)](#natural-language-processing-(nlp))
-    - [Word Embeddings](#word-embeddings)
-    - [Text Preprocessing](#text-preprocessing)
-    - [Sentiment Analysis](#sentiment-analysis)
+- [Natural Language Processing (NLP)](<#natural-language-processing-(nlp)>)
+  - [Word Embeddings](#word-embeddings)
+  - [Text Preprocessing](#text-preprocessing)
+  - [Sentiment Analysis](#sentiment-analysis)
 - [Pandas Basics](#pandas-basics)
 - [spaCy](#spacy)
 - [Assignment](#assignment)
@@ -19,20 +19,22 @@ This page contains links to section-wise resources on this week's topics. Please
 Natural Language Processing is the AI technique by which computers are trained to recognize, understand and reply in human 'natural' languages. Refer to the following links to get a brief understanding of NLP and the concepts behind it.
 
 - [**Short introductory video**](https://youtu.be/CMrHM8a3hqw)
-- [**Advanced textbook by Dan Jurafsky**](https://web.stanford.edu/~jurafsky/slp3/), **OPTIONAL, for those who are interested**
+- [**Advanced textbook by Dan Jurafsky**](https://web.stanford.edu/~jurafsky/slp3/), **OPTIONAL**, for those who are interested
+- [**Youtube Playlist by codebasics**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX) (contains extra content)
 
 ### Word Embeddings
 
-Computers cannot process words directly; they deal only with numerical input and computation. In order to feed text as input to a neural network, we will first need to convert it into vector form, using word embeddings. Go through the following resources to familiarize yourselves with the same.
+Neural networks cannot process words directly; they deal only with numerical vectors and their computations. In order to feed text as input to a neural network, we will first need to convert it into vector form, using word embeddings. There exist many different techniques (TF-IDF, Skip-gram, CBOW) and implementations (Glove, FastText, etc.) for this purpose.
 
 - [**Brief conceptual overview**](https://www.geeksforgeeks.org/word-embeddings-in-nlp/)
 - [**Another conceptual site**](https://towardsdatascience.com/nlp-101-word2vec-skip-gram-and-cbow-93512ee24314), specifically for skip gram models.
 
 ### Text Preprocessing
 
-Real word text is often not in a format appropriate for analysis. To clean up the input data, we use several preprocessing techniques. Refer to the below link on the same.
+Real word text is often not in a format appropriate for analysis. Things like spelling mistakes, punctuations, tenses and more complex concepts of a language are difficult to translate into vector representations. To clean up and simplify the input data, we use several preprocessing techniques. Refer to the below link on the same.
 
 - [**Detailed guide**](https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/) (Recommended)
+- [**Youtube Video**](https://www.youtube.com/watch?v=nxhCyeRR75Q), focusing more on post-cleanup steps like tokenization, stemming and lemmetization
 
 ### Sentiment Analysis
 
@@ -55,6 +57,6 @@ spaCy is another Python library used to implement advanced NLP techniques. Use t
 - [**Another tutorial**](https://realpython.com/natural-language-processing-spacy-python/)
 - [**YouTube playlist- NLP using spaCy**](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX), you can go through the relevant videos from here as well.
 
-## Assignment 
+## Assignment
 
 This week's assignment has not been released yet.
