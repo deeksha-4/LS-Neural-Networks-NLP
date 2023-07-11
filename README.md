@@ -7,3 +7,5 @@ This repository will contain all the resources and assignments of the Learners' 
 ### **Note: This is a temporary stand-in repo, the content here will be moved to another repo under the official WnCC GitHub account soon**
 
 ## [Week 1 - Neural Networks](./Week1/)
+
+## [Week 2 - Natural Language Processing](./Week2/)
