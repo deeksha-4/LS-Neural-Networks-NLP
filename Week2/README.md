@@ -59,4 +59,8 @@ spaCy is another Python library used to implement advanced NLP techniques. Use t
 
 ## Assignment
 
-This week's assignment has not been released yet.
+This week's assignment has been released. Open [**Skip_gram_in_PyTorch_(Graded).ipynb**](https://colab.research.google.com/drive/1qOcuPMjTDvs79CUWUX3g1sqn1otPe1U-?usp=sharing) in Colaboratory, and save a copy of the notebook to your own Drive. Due to issues with how some Markdown elements are rendered on GitHub, the notebook has not been added to the repo this time.
+
+The assignment uses NLTK for some pre-processing tasks instead of spaCy, but the usage is extremely minimal and adequate clarifications on where and how it is used are included.
+
+Submission will be taken via [**this google form**](https://forms.gle/7nty7641o3UJUGyM8)
