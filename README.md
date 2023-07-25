@@ -9,3 +9,5 @@ This repository will contain all the resources and assignments of the Learners' 
 ## [Week 1 - Neural Networks](./Week1/)
 
 ## [Week 2 - Natural Language Processing](./Week2/)
+
+## [Week 3 - Recurrent Neural Networks](./Week3/)
