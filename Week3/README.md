@@ -54,7 +54,7 @@ Here are a few resources on the topic, although only a understanding of the trad
 
 ## Assignment
 
-This week's assignment has been released. Open [**Sentiment*Analysis_using_LSTM*(Graded).ipynb**](https://colab.research.google.com/drive/1l1dxNj0NfBgdoSiIE-f8AB_syvqYa7sK?usp=sharing) in Colaboratory, and save a copy of the notebook to your own Drive. Again, due to issues with how some Markdown elements are rendered on GitHub, the notebook has not been added to the repo this time.
+This week's assignment has been released. Open [**Sentiment_Analysis_using_LSTM_(Graded).ipynb**](https://colab.research.google.com/drive/1l1dxNj0NfBgdoSiIE-f8AB_syvqYa7sK?usp=sharing) in Colaboratory, and save a copy of the notebook to your own Drive. Again, due to issues with how some Markdown elements are rendered on GitHub, the notebook has not been added to the repo this time.
 
 You will also have to download the `reviews.csv` dataset from [**this link**](https://drive.google.com/file/d/1nqmfdx7dj5qgynVwzD1CMjFFZoBeKrmD/view?usp=drive_link), and upload it to your Drive.
 
