@@ -1,6 +1,6 @@
 # Week 3
 
-After uderstanding the basics of NLP, and how we can convert words into processable embeddings, we must now understand how we can begin to properly process sentences and then going forward whole bodies of text.  
+After understanding the basics of NLP, and how we can convert words into processable embeddings, we must now understand how we can begin to properly process sentences and then going forward whole bodies of text.  
 For up until now, while we have been including information gained from the number and positions of words in sentences, we have not been able to use the _order_ or to be more precise, the **_sequence_** of these words in a sentence.
 
 In Week 3, you will understand the basic concepts behind Recurrent Neural Networks and their working, and use them in this week's assignment to process text. This will be a relatively light week, theory-wise.
@@ -46,7 +46,7 @@ There are various optimization algorithms designed to converge to the optimal so
 - Adam (Adaptive Moment Estimation):  
   Adam uses adaptive learning rates for each parameter and maintains exponentially decaying average of past squared gradients and past gradients. Adam is widely used and often performs well in practice.
 
-Here are a few resources on the topic, although only a understanding of the trade=offs between techniques is required.
+Here are a few resources on the topic, although only a understanding of the trade-offs between techniques is required.
 
 - [**PyTorch Docs - Optimizers**](https://pytorch.org/docs/stable/optim.html)
 - [**Explanation of the most common optimizers**](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6)
