@@ -2,7 +2,7 @@
 
 We now enter the final week of the course, where we will finally be dealing with arguably the most awaited concepts of the course - transformers and LLMs.
 
-In Week 4, you will explore the seemingly complex structure of transformers, and uncover the simple components inside them that together power a large portion of the ongoing AI revolution. You will also learn about the most important innovation from previous sequential data processing techniques - **attention**. We will end with looking at how they power Large Language Models, like the now ubiquitous GPTs.
+In Week 4, you will explore the seemingly complex structure of transformers, and uncover the simple components inside them that together power a large portion of the ongoing AI revolution. You will also learn about the most important innovation from previous sequential data processing techniques- **attention**. We will end by looking at how they power Large Language Models, like the now ubiquitous GPTs.
 
 This page contains links to section-wise resources on this week's topics. Please go through all of them carefully.
 
@@ -42,7 +42,7 @@ It's like understanding the context of each puzzle piece based on its connection
 
 Large Language Models, like transformers, represent a substantial advancement in neural networks for comprehending language intricacies. Self-attention empowers them to process entire sentences holistically rather than sequentially word by word. This capability enables words to derive meaning from others in a sophisticated, interwoven manner, leading to high proficiency in tasks like translation, where understanding word context is paramount.
 
-Most LLMs nowadays use transformer architecture, and the terms are used quite interchangeably. The major difference that LLMs have in comparision to traditional language models is that at such massive scales with large amounts of training data, these models have now started to exhibit "emergent properties" like **zero-shot learning**, where models are now able to perform tasks they were never explicitly trained for with remarkable proficiency.
+Most LLMs nowadays use transformer architecture, and the terms are quite often used interchangeably. The major difference that LLMs have in comparision to traditional language models is that at such massive scales with large amounts of training data, these models start to exhibit "emergent properties" like **zero-shot learning**, where models are able to perform tasks they were never explicitly trained for with remarkable proficiency.
 
 - [**An introductory guide to LLM**](https://research.aimultiple.com/large-language-models/)
 - [**Geeks for Geeks article on LLM**](https://www.geeksforgeeks.org/large-language-model-llm/)
@@ -61,7 +61,7 @@ Hugging Face 🤗, most commonly referred to as just 🤗, is an open-source com
 
 ### Transformers Library
 
-Hugging Face is particularly famous for its **`Transformers`** library, which has become a central hub for a wide range of pre-trained language models, including variants of the GPT, BERT, and other popular architectures. This library allows users to easily integrate and fine-tune these pre-trained models for various NLP tasks, such as text classification, named entity recognition, sentiment analysis, and more.
+Hugging Face is particularly famous for its **`Transformers`** library, which has become a central hub for a wide range of pre-trained language models, including GPT variants, BERT, and other popular architectures. This library allows users to easily integrate and fine-tune these pre-trained models for various NLP tasks, such as text classification, named entity recognition, sentiment analysis, and more.
 
 - [**Documentation for Transformers**](https://huggingface.co/docs/transformers/index)
 
@@ -75,7 +75,16 @@ By using Gradio, you can showcase your models, demonstrate their capabilities, a
 
 ## Fine-tuning Pretrained LLMs
 
-> _Section will be added shortly_
+Building an LLM from scratch is no easy task; it requires a massive amount of training data and computational power for pre-training. Hence it is much more efficient to simply fine-tune a pretrained LLM that can be imported, say from the Transformers library of Hugging Face. Fine-tuning is a process in which we limit the LLM to performing certain specific tasks, by re-training it on a specific dataset. Doing this not only specializes the LLM and makes it adapt to our needs; it also increases the model's accuracy on these specified tasks significantly.
+
+Refer to the below links to get an idea of the pretraining process, and you will be able to appreciate the use of fine-tuning a lot more.
+
+- [**Brief theoretical overview**]([https://towardsdatascience.com/different-ways-of-training-llms-c57885f388ed](https://medium.com/@atmabodha/pre-training-fine-tuning-and-in-context-learning-in-large-language-models-llms-dd483707b122))
+- [**More detailed article**](https://www.nitorinfotech.com/blog/training-large-language-models-llms-techniques-and-best-practices/)
+
+Here are some resources on the fine-tuning process as well.
+
+-[**Stepwise guide**](https://www.simform.com/blog/completeguide-finetuning-llm/#:~:text=Fine%2Dtuning%20in%20large%20language,your%20specific%20business%20use%20cases.)
 
 ## Assignment
 
