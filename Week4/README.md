@@ -79,7 +79,7 @@ Building an LLM from scratch is no easy task; it requires a massive amount of tr
 
 Refer to the below links to get an idea of the pretraining process, and you will be able to appreciate the use of fine-tuning a lot more.
 
-- [**Brief theoretical overview**]([https://towardsdatascience.com/different-ways-of-training-llms-c57885f388ed](https://medium.com/@atmabodha/pre-training-fine-tuning-and-in-context-learning-in-large-language-models-llms-dd483707b122)
+- [**Brief theoretical overview**](https://medium.com/@atmabodha/pre-training-fine-tuning-and-in-context-learning-in-large-language-models-llms-dd483707b122)
 - [**More detailed article**](https://www.nitorinfotech.com/blog/training-large-language-models-llms-techniques-and-best-practices/)
 
 Here are some resources on the fine-tuning process as well.
