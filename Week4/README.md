@@ -13,7 +13,7 @@ An optional assignment on Hugging Face 🤗 libraries has been released. There w
   - [Large Language Models](#large-language-models-llm)
   - [Decoding Strategies](#decoding-strategies)
 - [Hugging-Face 🤗](#hugging-face-🤗)
-  - [🤗 Transformers](#🤗-transformers)
+  - [🤗 Transformers](#-transformers)
   - [Gradio](#gradio)
 - [Fine-Tuning Pretrained LLMs](#fine-tuning-pretrained-llms)
 - [Assignment](#assignment)
