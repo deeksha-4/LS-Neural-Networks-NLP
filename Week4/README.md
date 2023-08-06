@@ -6,7 +6,7 @@ In Week 4, you will explore the seemingly complex structure of transformers, and
 
 This page contains links to section-wise resources on this week's topics. Please go through all of them carefully.
 
-An optional assignment on Hugging Face 🤗 libraries has been released. There will be no graded assignment this week, final project details will be uploaded shortly.
+An optional assignment on Hugging Face 🤗 libraries has been released. There will be no graded assignment this week. [**The details of the final project have been released**](../Final%20Project/).
 
 - [Coursera Course](#coursera-course)
 - [Transformers](#transformers)
@@ -85,10 +85,12 @@ Refer to the below links to get an idea of the pretraining process, and you will
 
 Here are some resources on the fine-tuning process as well.
 
-- [**Stepwise guide**](https://www.simform.com/blog/completeguide-finetuning-llm/#:~:text=Fine%2Dtuning%20in%20large%20language,your%20specific%20business%20use%20cases.)
+- [**Stepwise overview of the process**](https://www.simform.com/blog/completeguide-finetuning-llm/#:~:text=Fine%2Dtuning%20in%20large%20language,your%20specific%20business%20use%20cases.)
 
 ## Assignment
 
 An optional assignment [**Simple_QnA_Bot_HF_Transformers_Gradio.ipynb**](https://colab.research.google.com/drive/1-5PAyssk8neEKlh1ce6WXfnqwTzXH3aS?usp=sharing) to familiarize yourself with both Hugging Face 🤗 libraries.
 
-There will be no graded assignment for Week 4. Final project details will be released shortly.
+There will be no graded assignment for Week 4.
+
+[**The details of the final project have been released. Click this link to view them**](../Final%20Project/).
