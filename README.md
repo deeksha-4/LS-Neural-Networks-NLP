@@ -13,3 +13,5 @@ This repository will contain all the resources and assignments of the Learners' 
 ## [Week 3 - Recurrent Neural Networks](./Week3/)
 
 ## [Week 4 - Transformers and LLMs](./Week4/)
+
+## [Final Project](./Final%20Project/)

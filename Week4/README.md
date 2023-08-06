@@ -81,6 +81,7 @@ Refer to the below links to get an idea of the pretraining process, and you will
 
 - [**Brief theoretical overview**](https://medium.com/@atmabodha/pre-training-fine-tuning-and-in-context-learning-in-large-language-models-llms-dd483707b122)
 - [**More detailed article**](https://www.nitorinfotech.com/blog/training-large-language-models-llms-techniques-and-best-practices/)
+- [**Youtube video on building a GPT-style model from scratch**](https://youtu.be/kCc8FmEb1nY) (Note: Very advanced, beyond the scope of this course. Extremely optional, proceed with caution)
 
 Here are some resources on the fine-tuning process as well.
 
