@@ -13,7 +13,7 @@ An optional assignment on Hugging Face 🤗 libraries has been released. There w
   - [Large Language Models](#large-language-models-llm)
   - [Decoding Strategies](#decoding-strategies)
 - [Hugging-Face 🤗](#hugging-face-🤗)
-  - [Transformers Library](#transformers-library)
+  - [🤗 Transformers](#🤗-transformers)
   - [Gradio](#gradio)
 - [Fine-Tuning Pretrained LLMs](#fine-tuning-pretrained-llms)
 - [Assignment](#assignment)
@@ -59,11 +59,11 @@ Decoding strategies refer to techniques used to influence the output sequences g
 
 Hugging Face 🤗, most commonly referred to as just 🤗, is an open-source community that is well-known for its contributions to natural language processing (NLP) and artificial intelligence (AI). It provides a platform for researchers, developers, and practitioners to access, share, and collaborate on various NLP models, tools, and resources.
 
-### Transformers Library
+### 🤗 Transformers
 
 Hugging Face is particularly famous for its **`Transformers`** library, which has become a central hub for a wide range of pre-trained language models, including GPT variants, BERT, and other popular architectures. This library allows users to easily integrate and fine-tune these pre-trained models for various NLP tasks, such as text classification, named entity recognition, sentiment analysis, and more.
 
-- [**Documentation for Transformers**](https://huggingface.co/docs/transformers/index)
+- [**Documentation for 🤗 Transformers**](https://huggingface.co/docs/transformers/index)
 
 ### Gradio
 
